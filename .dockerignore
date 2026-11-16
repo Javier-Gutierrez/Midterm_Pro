@@ -1,0 +1,8 @@
+.venv/
+data/
+notebooks/
+__pycache__/
+*.py[cod]
+.git/
+.gitignore
+.vscode/

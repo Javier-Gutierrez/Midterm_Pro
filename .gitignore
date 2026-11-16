@@ -1,0 +1,15 @@
+#Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Data Kaggle
+data/
+
+#Models
+models/*.joblib
+
+#Configuration
+.DS_Store
+Thumbs.db
+.vscode/
